@@ -169,10 +169,6 @@ Business website built for a digital marketing agency (SEO, Meta/Google Ads, bra
 
 **B.E. Computer Science and Business Systems**
 PSG Institute of Technology and Applied Research · Coimbatore · `2023 – Present`
-
-**HSC — 92%**
-Bannari Amman Vidya Niketan · Erode · `2023`
-
 ---
 
 ### 📊 GitHub Stats
