@@ -1,219 +1,252 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sujith%20M&fontSize=70&animation=twinkling" alt="Sujith M profile header" />
+</p>
 
-<!-- Typing animation header -->
-<a href="https://github.com/sujithmurugeshan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sujith+M+%F0%9F%91%8B;Full-Stack+Developer;Node.js+%7C+React.js+%7C+PostgreSQL;Backend+%26+API+Engineer;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://linkedin.com/in/sujithmurugeshan">Sujith M</a></b>
+    </samp>
+</h3>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
-
-</div>
-
-<h3 align="center">🚀 Product Engineer | Backend & Full-Stack Developer | Building scalable REST APIs</h3>
+<br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujithmurugeshan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/sujithmurugeshan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codechef.com/users/sujithmurugeshan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="mailto:sujithmurugeshan574@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<samp>
+「 Product Engineer building scalable backend systems, REST APIs, and full-stack web platforms 」
+</samp>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujithmurugeshan&color=00f7ff&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-orange?style=flat-square"/>
-</p>
-
----
-
-### 💻 About Me — in code
-
-```javascript
-const sujith = {
-    location: "Coimbatore, India",
-    role: "Product Engineer Trainee @ Jawanexis Technologies",
-    education: "B.E. CSBS, PSG Institute of Technology and Applied Research",
-    languages: ["Python", "SQL", "Java (Basic)"],
-    stack: {
-        frontend: ["React.js"],
-        backend: ["Node.js", "Express.js", "Flask API"],
-        databases: ["PostgreSQL", "MySQL", "Redis"],
-        tools: ["Git", "GitHub", "VS Code"],
-    },
-    coreConcepts: ["DSA", "OOP", "DBMS", "Operating Systems", "REST APIs", "JWT Auth"],
-    currentFocus: "Scalable backend architecture & real-time API analytics",
-    funFact: "Vice-Captain of my college Volleyball team 🏐",
-    reachMe: "sujithmurugeshan574@gmail.com",
-};
-
-console.log(sujith.currentFocus);
-```
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,nodejs,express,react,postgres,mysql,redis,flask,git,github,vscode,linux&perline=13"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Product+Engineer+Trainee;Full-Stack+%26+Backend+Developer;Node.js+%7C+React.js+%7C+PostgreSQL;REST+APIs+%7C+Redis+%7C+JWT+Auth"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Animated coding visual">
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=3&width=1000" alt="divider" />
+</p>
 
-### 💼 Work Experience
+# 🛠 Technologies, Projects, and Domains
 
-<table>
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="100%">
 
-**🔹 Product Engineer Trainee — Jawanexis Technologies** *(Hybrid, Coimbatore)*
-`May 2026 – July 2026`
-- Built **JAWA EDTECH**, a full-stack Learning Management System with React.js, Node.js, Express.js & PostgreSQL
-- Implemented authentication, RBAC, course management, assessments, and student dashboards
-- Designed backend APIs and optimized PostgreSQL database operations
-- Collaborated in Agile sprints — development, testing, and production deployment
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg" width="32"/></td>
+  </tr>
+</table>
 
 </td>
-</tr>
-<tr>
-<td width="100%">
 
-**🔹 Data Analyst Intern — Bluestock Fintech** *(Remote)*
-`Apr 2026 – May 2026`
-- Built a REST API serving **5.6L+ village records** using Node.js, Express.js & PostgreSQL
-- Implemented JWT authentication, Redis caching, API key management, and rate limiting
-- Developed a React.js dashboard for real-time API analytics and monitoring
-- Improved backend performance through caching and optimized response handling
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<table cellspacing="0" cellpadding="10" width="220">
+<tr><td align="center">
+
+**🌐 Village Data REST API**
+<br><sub>Node.js · Express · PostgreSQL · Redis · React</sub>
+<br>5.6L+ records served, Redis-cached, live analytics dashboard
+
+</td></tr>
+<tr><td align="center">
+
+**🎓 JAWA EDTECH — LMS**
+<br><sub>React · Node.js · Express · PostgreSQL</sub>
+<br>Full-stack LMS with RBAC, dashboards, assessments
+<br>🔗 <a href="https://www.jawaedtech.com/">Live Site</a>
+
+</td></tr>
+<tr><td align="center">
+
+**📈 Akshu Medias**
+<br><sub>Web Development</sub>
+<br>Digital marketing agency website — live client project
+<br>🔗 <a href="https://akshumedias.in">Live Site</a>
+
+</td></tr>
+</table>
 
 </td>
+
+<!-- WORK & EDUCATION -->
+<td width="260" valign="top" align="center">
+
+<h3>💼 Experience</h3>
+<br>
+
+<table cellspacing="0" cellpadding="10" width="220">
+<tr><td align="center">
+
+**Product Engineer Trainee**
+<br><sub>Jawanexis Technologies</sub>
+<br>May – Jul 2026 · Hybrid, Coimbatore
+
+</td></tr>
+<tr><td align="center">
+
+**Data Analyst Intern**
+<br><sub>Bluestock Fintech</sub>
+<br>Apr – May 2026 · Remote
+
+</td></tr>
+<tr><td align="center">
+
+**B.E. CSBS**
+<br><sub>PSG Institute of Technology and Applied Research</sub>
+<br>2023 – Present · Coimbatore
+
+</td></tr>
+</table>
+
+</td>
+
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,50:203A43,100:0F2027&height=3&width=1000" alt="divider" />
+</p>
 
-### 🚀 Featured Projects
+### 📊 Vital Statistics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sujithmurugeshan&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
-**🌐 Village Data REST API Dashboard**
-`Node.js` `Express.js` `PostgreSQL` `React.js` `Redis`
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujithmurugeshan&theme=tokyonight" alt="GitHub profile contribution summary" />
+</p>
 
-Scalable REST API platform serving **5.6L+ village records**, with Redis caching + rate limiting for performance and a React.js dashboard for real-time API analytics.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujithmurugeshan&label=PROFILE%20VIEWS&color=00F7FF&style=flat-square" alt="Views" />
+</p>
 
-📊 **5.6L+ records served** · ⚡ Redis-cached · 📈 Live analytics dashboard
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 JAWA EDTECH — Learning Management System**
-`React.js` `Node.js` `Express.js` `PostgreSQL`
-
-Full-stack LMS supporting online learning and course delivery — with auth, RBAC, dashboards, assessments, and course management, built collaboratively via Git & Agile.
-
-🔐 RBAC + JWT Auth · 📚 Full course lifecycle · 🤝 Team-built
-
-🔗 **[Live Site](https://www.jawaedtech.com/)**
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-**📈 Akshu Medias — Digital Marketing Agency Website**
-`Web Development`
-
-Business website built for a digital marketing agency (SEO, Meta/Google Ads, branding, lead generation) — covering service pages, pricing plans, industry showcases, and a contact/lead-capture flow.
-
-🌐 Live production site · 💼 Client project
-
-🔗 **[Live Site](https://akshumedias.in)**
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 Achievements
-
-- 🧩 Solved **300+ coding problems** on LeetCode
-- 🏐 **Volleyball Vice-Captain** — represented college in inter-college tournaments
-- 🥇 **Winner — Men's Handball Tournament**, Sudeva 2024
-- 💡 Participant — **SapHackFest Hackathon**
-
----
-
-### 🎓 Education
-
-**B.E. Computer Science and Business Systems**
-PSG Institute of Technology and Applied Research · Coimbatore · `2023 – Present`
----
-
-### 📊 GitHub Stats
-
-<div align="center">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujithmurugeshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithmurugeshan&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sujithmurugeshan&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujithmurugeshan&theme=darkhub&no-frame=true&row=1&column=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithmurugeshan&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sujithmurugeshan/sujithmurugeshan/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> *(Set up via [platane/snk](https://github.com/Platane/snk) GitHub Action — see setup note below)*
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sujithmurugeshan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sujithmurugeshan574@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+916374779733"><img src="https://img.shields.io/badge/Phone-%2B91%206374779733-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujithmurugeshan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-*"Code, ship, iterate — and win a handball tournament along the way."* 🏆
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithmurugeshan&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujithmurugeshan/sujithmurugeshan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=3&width=1000" alt="divider" />
+</p>
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I'm open to collaborating on:
+
+<ul>
+  <li>Backend & REST API projects</li>
+  <li>Full-stack web platforms</li>
+  <li>PostgreSQL / Redis-backed systems</li>
+  <li>LMS & EdTech products</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: ACHIEVEMENTS -->
+<td width="34%" align="center" valign="middle">
+
+<h2>🏆 Achievements</h2>
+
+<ul align="left">
+  <li>300+ problems solved on LeetCode</li>
+  <li>Volleyball Vice-Captain — inter-college tournaments</li>
+  <li>Winner — Men's Handball Tournament, Sudeva 2024</li>
+  <li>Participant — SapHackFest Hackathon</li>
+</ul>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://linkedin.com/in/sujithmurugeshan">
+  <img src="https://img.shields.io/badge/LinkedIn-sujithmurugeshan-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="mailto:sujithmurugeshan574@gmail.com">
+  <img src="https://img.shields.io/badge/email-sujithmurugeshan574%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://leetcode.com/sujithmurugeshan">
+  <img src="https://img.shields.io/badge/LeetCode-sujithmurugeshan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,50:203A43,100:0F2027&height=3&width=1000" alt="divider" />
+</p>
+
+<p align="center">
+⚡ Building scalable backend systems and full-stack web platforms
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
